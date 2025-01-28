@@ -2,7 +2,7 @@
 //  GCodeConfiguration.swift
 //
 //
-//  Created by [Your Name] on [Date].
+//  Created by Josiah Rynne on 1/27/25.
 //
 
 import Foundation
